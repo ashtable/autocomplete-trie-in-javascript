@@ -1,0 +1,27 @@
+{
+  "name": "autocomplete-trie-in-javascript",
+  "version": "1.0.0",
+  "description": "A prototype autocomplete implemented as a trie in JavaScript",
+  "main": "trie.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashtable/autocomplete-trie-in-javascript.git"
+  },
+  "keywords": [
+    "autocomplete",
+    "trie",
+    "javascript"
+  ],
+  "author": "Ash Srinivas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashtable/autocomplete-trie-in-javascript/issues"
+  },
+  "homepage": "https://github.com/ashtable/autocomplete-trie-in-javascript#readme",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
